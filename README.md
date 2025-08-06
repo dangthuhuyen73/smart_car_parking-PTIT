@@ -287,6 +287,6 @@ ESP32 cung cấp một giao diện Web để quản lý trạng thái bãi đỗ
 
 💡 Nếu bạn thích dự án này, hãy ⭐️ trên GitHub nhé!
 
-📩 Liên hệ: tranminhthuong08082003@gmail.com | 
+📩 Liên hệ: dangthuhuyen07032003@gmail.com | 
 
 📌 Tác giả: 🚀 Nhom 1 - PTIT! 🚀
